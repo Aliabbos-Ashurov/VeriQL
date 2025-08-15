@@ -1,3 +1,3 @@
 # VeriQL
 
-![VeriQL logo](/assets/veriql-logo-2.png)
+![VeriQL logo](/assets/veriql-logo-s.png)
